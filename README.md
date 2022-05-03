@@ -1,4 +1,4 @@
-![alt text](https://github.com/Firthir/Firthir/blob/master/git.gif?raw=true) 
+![alt text](https://github.com/Firthir/Firthir/blob/master/header.gif?raw=true) 
 
 ### ✨ Frithir
 
